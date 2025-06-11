@@ -79,3 +79,5 @@ The dashboard enabled users to ask and answer "why" questions, moving beyond mer
 * **Various Visuals**: Cards for KPIs, Tables for detailed data, Slicers for interactive filtering, Line Charts for trends, and Donut Charts for part-to-whole analysis.
 * **Conditional Formatting**: Applying visual rules (e.g., data bars, icons) based on data values.
 * **Tooltips**: Creating custom tooltips for enhanced hover-over insights.
+
+**Live Dashboard:** [AtliQ Grands Hospitality Revenue Insights](https://app.powerbi.com/groups/me/reports/ed41f578-1c4e-47ad-bc56-0d46f4221ca2/ReportSection?experience=power-bi)
