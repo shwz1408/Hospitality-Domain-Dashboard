@@ -80,4 +80,4 @@ The dashboard enabled users to ask and answer "why" questions, moving beyond mer
 * **Conditional Formatting**: Applying visual rules (e.g., data bars, icons) based on data values.
 * **Tooltips**: Creating custom tooltips for enhanced hover-over insights.
 
-**Live Dashboard:** [AtliQ Grands Hospitality Revenue Insights](https://app.powerbi.com/groups/me/reports/ed41f578-1c4e-47ad-bc56-0d46f4221ca2/ReportSection?experience=power-bi)
+**Live Dashboard:** [AtliQ Grands Hospitality Revenue Insights](https://app.powerbi.com/view?r=eyJrIjoiNTRlODI3NGEtYTc3ZS00Nzk3LTgxNjMtNmYwODc1MjljNDRlIiwidCI6Ijg4M2M1ZDc1LWE0MWMtNDIwNy05ZDg0LTYzZDdlMDMxMmY1YyJ9)
